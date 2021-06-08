@@ -3,5 +3,7 @@
 - config
 - init
 - add
-- commit
+- commit (--amend)
 - status
+- log
+- .gitignore
