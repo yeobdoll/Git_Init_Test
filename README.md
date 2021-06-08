@@ -8,4 +8,4 @@
 - log
 - .gitignore
 - branch
-- edit from master
+- merge
