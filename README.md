@@ -4,3 +4,4 @@
 - init
 - add
 - commit
+- status
