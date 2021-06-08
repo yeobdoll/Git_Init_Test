@@ -2,3 +2,5 @@
 
 - config
 - init
+- add
+- commit
